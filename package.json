@@ -1,0 +1,28 @@
+{
+  "name": "google-service-account-authenticator",
+  "author": "Vlad Tsepelev <reg.yeti@gmail.com> (http://yetithefoot.com/)",
+  "license": "MIT",
+  "version": "0.0.1",
+  "description": "Google Service Account authenticator",
+  "scripts": {
+  },
+  "engines": {
+    "node": ">= 0.10"
+  },
+  "dependencies": {
+    "cron": "^1.0.9",
+    "googleapis": "^2.0.3",
+    "sugar": "^1.4.1"
+  },
+  "devDependencies": {
+  },
+  "repository": "yetithefoot/google-service-account-authenticator",
+  "keywords": [
+    "gapi",
+    "google",
+    "service",
+    "account",
+    "auth",
+    "authenticator"
+   ]
+}
