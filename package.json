@@ -2,7 +2,7 @@
   "name": "google-service-account-authenticator",
   "author": "Vlad Tsepelev <reg.yeti@gmail.com> (http://yetithefoot.com/)",
   "license": "MIT",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Google Service Account authenticator",
   "scripts": {
   },
