@@ -12,7 +12,6 @@ var drive = googleapis.drive('v3'); // enable drive api
 var authorizer = require('googleapis-jwt-authorizer');
 authorizer.init({
     googleapis:googleapis, // pass gapi instance to authorizer
-    // cronTimePattern: "*/5 * * * * *", // cron
     key: '/absolute/path/to/google/servcieaccount/pem/keyfile',
     email: 'abc-xyz@developer.gserviceaccount.com',
     scopes: ['https://www.googleapis.com/auth/drive']
