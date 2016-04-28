@@ -1,13 +1,13 @@
 {
-  "name": "google-service-account-authenticator",
+  "name": "googleapis-jwt-authorizer",
   "author": "Vlad Tsepelev <reg.yeti@gmail.com> (http://yetithefoot.com/)",
   "license": "MIT",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Google Service Account authenticator",
   "scripts": {
   },
   "engines": {
-    "node": ">= 0.10"
+    "node": ">= 5.0.0"
   },
   "dependencies": {
     "cron": "^1.0.9",
@@ -16,13 +16,15 @@
   },
   "devDependencies": {
   },
-  "repository": "yetithefoot/google-service-account-authenticator",
+  "repository": "yetithefoot/googleapis-jwt-authorizer",
   "keywords": [
     "gapi",
     "google",
     "service",
     "account",
     "auth",
+    "jwt",
+    "googleapis",
     "authenticator"
    ]
 }
