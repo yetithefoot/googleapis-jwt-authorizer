@@ -2,10 +2,10 @@
   "name": "googleapis-jwt-authorizer",
   "author": "Vlad Tsepelev <reg.yeti@gmail.com> (http://yetithefoot.com)",
   "license": "MIT",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "Google API JWT authenticator",
   "scripts": {
-    "test":"exit 0;"
+    "test": "exit 0;"
   },
   "engines": {
     "node": ">= 5.0.0"
@@ -13,8 +13,7 @@
   "dependencies": {
     "cron": "^1.0.9"
   },
-  "devDependencies": {
-  },
+  "devDependencies": {},
   "repository": "yetithefoot/googleapis-jwt-authorizer",
   "keywords": [
     "gapi",
@@ -25,5 +24,5 @@
     "jwt",
     "googleapis",
     "authenticator"
-   ]
+  ]
 }
