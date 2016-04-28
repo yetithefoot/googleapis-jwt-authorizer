@@ -2,7 +2,7 @@
   "name": "googleapis-jwt-authorizer",
   "author": "Vlad Tsepelev <reg.yeti@gmail.com> (http://yetithefoot.com/)",
   "license": "MIT",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Google Service Account authenticator",
   "scripts": {
   },
@@ -11,7 +11,6 @@
   },
   "dependencies": {
     "cron": "^1.0.9",
-    "googleapis": "^2.0.3",
     "q": "^1.4.1"
   },
   "devDependencies": {
