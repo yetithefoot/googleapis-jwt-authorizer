@@ -1,1 +1,1 @@
-module.exports = require('./lib/google-service-account-authenticator')
+module.exports = require('./lib/googleapis-jwt-authorizer.js')
