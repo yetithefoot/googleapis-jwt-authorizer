@@ -26,6 +26,3 @@ authorizer.events.on('authorized', auth = {
 
 
 
-- [ ] Refresh tokens based on expiration date
-
-
