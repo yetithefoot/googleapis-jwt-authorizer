@@ -1,17 +1,17 @@
 {
   "name": "googleapis-jwt-authorizer",
-  "author": "Vlad Tsepelev <reg.yeti@gmail.com> (http://yetithefoot.com/)",
+  "author": "Vlad Tsepelev <reg.yeti@gmail.com> (http://yetithefoot.com)",
   "license": "MIT",
-  "version": "0.0.6",
-  "description": "Google Service Account authenticator",
+  "version": "0.0.7",
+  "description": "Google API JWT authenticator",
   "scripts": {
+    "test":"exit 0;"
   },
   "engines": {
     "node": ">= 5.0.0"
   },
   "dependencies": {
-    "cron": "^1.0.9",
-    "q": "^1.4.1"
+    "cron": "^1.0.9"
   },
   "devDependencies": {
   },
